@@ -1,3 +1,0 @@
-<html>
-<h1> gaana version 2.0 </h1>
-</html>
